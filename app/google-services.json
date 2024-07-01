@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088418268365",
+    "project_id": "firstform-c4ee9",
+    "storage_bucket": "firstform-c4ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088418268365:android:e6a8dfcad1ca71dc5dd584",
+        "android_client_info": {
+          "package_name": "com.example.firstform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS05jmqFv5CX4T8Q3dAK7mfCGMhvzDSps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
